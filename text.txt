@@ -1,0 +1,5 @@
+src/
+├── components/
+│   ├── UserCard.vue    # Компонент с слотами
+│   └── AppContent.vue  # Демонстрация использования
+└── App.vue
